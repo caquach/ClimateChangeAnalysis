@@ -1,0 +1,26 @@
+TaskB1: Top 10 Lowest Temperatures in Unique Countries in Jun
+Temperature(C), Year, Month, Country, Country_Code
+-6.71(C) 19.92(F), 2006, Jun, Greenland, GRL
+2.61(C) 36.7(F), 2002, Jun, Chile, CHL
+4.2(C) 39.56(F), 2006, Jun, New Zealand, NZL
+5.61(C) 42.09(F), 2011, Jun, Iceland, ISL
+6.15(C) 43.07(F), 2002, Jun, Argentina, ARG
+6.42(C) 43.55(F), 2002, Jun, Lesotho, LSO
+7.08(C) 44.74(F), 2000, Jun, Canada, CAN
+7.94(C) 46.29(F), 2001, Jun, Liechtenstein, LIE
+7.98(C) 46.37(F), 2000, Jun, Faroe Islands, FRO
+8.17(C) 46.71(F), 2015, Jun, Norway, NOR
+
+TaskB1: Top 10 Highest Temperatures in Unique Countries in Jun
+Temperature(C), Year, Month, Country, Country_Code
+-6.71(C) 19.92(F), 2006, Jun, Greenland, GRL
+33.25(C) 91.85(F), 2012, Jun, Algeria, DZA
+33.57(C) 92.42(F), 2010, Jun, Saudi Arabia, SAU
+34.38(C) 93.88(F), 2015, Jun, United Arab Emirates, ARE
+34.61(C) 94.31(F), 2015, Jun, Niger, NER
+34.68(C) 94.42(F), 2015, Jun, Mauritania, MRT
+34.83(C) 94.69(F), 2015, Jun, Mali, MLI
+36.65(C) 97.97(F), 2011, Jun, Qatar, QAT
+36.87(C) 98.37(F), 2011, Jun, Bahrain, BHR
+37.0(C) 98.6(F), 2015, Jun, Kuwait, KWT
+

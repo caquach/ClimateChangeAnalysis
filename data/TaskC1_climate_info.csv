@@ -1,0 +1,13 @@
+TaskC1: Top 10 Jun Temperature Deltas using 2010 and 2016 data
+Temperature(C), Year, Month, Country, Country_Code
+1.79(C) 35.22(F), 6, Jun, Bolivia, BOL
+1.89(C) 35.39(F), 6, Jun, Georgia, GEO
+2.0(C) 35.61(F), 6, Jun, Armenia, ARM
+2.04(C) 35.67(F), 6, Jun, Tajikistan, TJK
+2.12(C) 35.82(F), 6, Jun, Kazakhstan, KAZ
+2.18(C) 35.93(F), 6, Jun, Azerbaijan, AZE
+2.3(C) 36.14(F), 6, Jun, Mongolia, MNG
+2.35(C) 36.23(F), 6, Jun, Timor Leste, TLS
+2.5(C) 36.49(F), 6, Jun, Uruguay, URY
+3.48(C) 38.27(F), 6, Jun, Paraguay, PRY
+

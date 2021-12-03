@@ -1,0 +1,16 @@
+TaskA1: Lowest Temperature in Jun for United States
+Temperature(C), Year, Month, Country, Country_Code
+17.28(C) 63.1(F), 2003, Jun, United States, USA
+
+TaskA1: Highest Temperature in Jun for United States
+Temperature(C), Year, Month, Country, Country_Code
+19.06(C) 66.31(F), 2016, Jun, United States, USA
+
+TaskA1: Lowest Temperature in Mar for United States
+Temperature(C), Year, Month, Country, Country_Code
+-0.47(C) 31.16(F), 2002, Mar, United States, USA
+
+TaskA1: Highest Temperature in Jul for Vietnam
+Temperature(C), Year, Month, Country, Country_Code
+27.9(C) 82.23(F), 2016, Jul, Vietnam, VNM
+

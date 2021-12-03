@@ -1,0 +1,8 @@
+TaskA2: Lowest Temperature in 2016 for United States
+Temperature(C), Year, Month, Country, Country_Code
+-4.05(C) 24.71(F), 2016, Dec, United States, USA
+
+TaskA2: Highest Temperature in 2016 for United States
+Temperature(C), Year, Month, Country, Country_Code
+21.2(C) 70.15(F), 2016, Jul, United States, USA
+
